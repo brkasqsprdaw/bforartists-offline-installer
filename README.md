@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-3D+Creation-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Modeling-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Bforartists Free Installer** — Bforartists is a free, open-source fork of Blender that focuses on a redesigned user interface to make 3D creation more accessible. Works without internet access, no account required. Full offline installation.
+**💻 Bforartists Free Installer** — Bforartists is a free, open-source 3D suite and a fork of Blender focused on improving the user interface and overall usability. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Bforartists
 
-Bforartists is a free, open-source fork of Blender that focuses on a redesigned user interface to make 3D creation more accessible. It replaces Blender's icon-heavy menus with labeled buttons and improved workflow organization while keeping full Blender compatibility.
+Bforartists is a free, open-source 3D suite and a fork of Blender focused on improving the user interface and overall usability. With redesigned menus, additional icons, streamlined toolbars, and workflow improvements, Bforartists aims to make Blender's powerful 3D capabilities more accessible to artists without extensive Blender experience. It maintains full compatibility with Blender files and add-ons.
 
 ---
 
 ## ❌ Problem: Bforartists is hard to access
 
-- **Blender Alternative** — Users wanting latest Blender features must track Blender's update pace
-- **Smaller Community** — Far fewer tutorials and resources than Blender's massive community
-- **UI Focus Only** — Same underlying engine as Blender; no fundamental capability differences
-- **Compatibility Lag** — May trail official Blender releases in adopting new features
+- **Community Size** — Much smaller than Blender's community and resource ecosystem
+- **Add-on Compatibility** — Some Blender add-ons may behave differently in Bforartists
+- **Documentation** — Less documentation and tutorials than Blender
+- **Update Cadence** — Updates trail Blender releases slightly
 
 ---
 
@@ -121,7 +121,7 @@ Bforartists is a free, open-source fork of Blender that focuses on a redesigned 
 
 ---
 
-**Bforartists Free Installer** — Bforartists is a free, open-source fork of Blender that focuses on a redesigned user interface to make 3D creation more accessible. Install without internet connection today!
+**Bforartists Free Installer** — Bforartists is a free, open-source 3D suite and a fork of Blender focused on improving the user interface and overall usability. Install without internet connection today!
 
 <div align="center">
 
